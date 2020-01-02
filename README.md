@@ -1,4 +1,4 @@
-# AvatarProject
+# FinalProject
 First game project created in JavaScript
 
 # APIGrabber
